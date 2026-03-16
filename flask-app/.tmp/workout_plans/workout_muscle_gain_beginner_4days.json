@@ -1,0 +1,208 @@
+{
+  "goal": "Muscle Gain",
+  "experience": "Beginner",
+  "days_per_week": 4,
+  "equipment": "Full Gym",
+  "generated_at": "2026-03-15T20:32:28.942186",
+  "weekly_schedule": [
+    {
+      "day": 1,
+      "focus": "Upper Body",
+      "exercises": [
+        {
+          "exercise": "Barbell Bench Press",
+          "muscle_group": "Chest",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Incline Dumbbell Press",
+          "muscle_group": "Chest",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Pull-ups",
+          "muscle_group": "Back",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Barbell Rows",
+          "muscle_group": "Back",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Overhead Press",
+          "muscle_group": "Shoulders",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Lateral Raises",
+          "muscle_group": "Shoulders",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Barbell Curls",
+          "muscle_group": "Arms",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Tricep Pushdowns",
+          "muscle_group": "Arms",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "focus": "Lower Body",
+      "exercises": [
+        {
+          "exercise": "Barbell Squat",
+          "muscle_group": "Legs",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Romanian Deadlifts",
+          "muscle_group": "Legs",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Leg Press",
+          "muscle_group": "Legs",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Leg Curls",
+          "muscle_group": "Legs",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "focus": "Upper Body",
+      "exercises": [
+        {
+          "exercise": "Barbell Bench Press",
+          "muscle_group": "Chest",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Incline Dumbbell Press",
+          "muscle_group": "Chest",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Pull-ups",
+          "muscle_group": "Back",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Barbell Rows",
+          "muscle_group": "Back",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Overhead Press",
+          "muscle_group": "Shoulders",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Lateral Raises",
+          "muscle_group": "Shoulders",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Barbell Curls",
+          "muscle_group": "Arms",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Tricep Pushdowns",
+          "muscle_group": "Arms",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "focus": "Lower Body",
+      "exercises": [
+        {
+          "exercise": "Barbell Squat",
+          "muscle_group": "Legs",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Romanian Deadlifts",
+          "muscle_group": "Legs",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Leg Press",
+          "muscle_group": "Legs",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        },
+        {
+          "exercise": "Leg Curls",
+          "muscle_group": "Legs",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60-90 seconds"
+        }
+      ]
+    }
+  ],
+  "notes": {
+    "progression": "Focus on form first, then add weight gradually",
+    "warm_up": "5-10 minutes light cardio + dynamic stretching",
+    "cool_down": "5-10 minutes static stretching",
+    "rest_days": "At least 1-2 rest days per week",
+    "nutrition": "Eat in caloric surplus for muscle gain, deficit for fat loss"
+  }
+}

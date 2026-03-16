@@ -1,0 +1,202 @@
+{
+  "goal": "Endurance",
+  "experience": "Intermediate",
+  "days_per_week": 3,
+  "equipment": "Dumbbells",
+  "generated_at": "2026-03-15T20:29:26.787073",
+  "weekly_schedule": [
+    {
+      "day": 1,
+      "focus": "Full Body",
+      "exercises": [
+        {
+          "exercise": "Push-ups",
+          "muscle_group": "Chest",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Wide Push-ups",
+          "muscle_group": "Chest",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Pull-ups (if bar)",
+          "muscle_group": "Back",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Bodyweight Rows",
+          "muscle_group": "Back",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Squats",
+          "muscle_group": "Legs",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Lunges",
+          "muscle_group": "Legs",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Pike Push-ups",
+          "muscle_group": "Shoulders",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Handstand Push-ups (advanced)",
+          "muscle_group": "Shoulders",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "focus": "Full Body",
+      "exercises": [
+        {
+          "exercise": "Push-ups",
+          "muscle_group": "Chest",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Wide Push-ups",
+          "muscle_group": "Chest",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Pull-ups (if bar)",
+          "muscle_group": "Back",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Bodyweight Rows",
+          "muscle_group": "Back",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Squats",
+          "muscle_group": "Legs",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Lunges",
+          "muscle_group": "Legs",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Pike Push-ups",
+          "muscle_group": "Shoulders",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Handstand Push-ups (advanced)",
+          "muscle_group": "Shoulders",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "focus": "Full Body",
+      "exercises": [
+        {
+          "exercise": "Push-ups",
+          "muscle_group": "Chest",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Wide Push-ups",
+          "muscle_group": "Chest",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Pull-ups (if bar)",
+          "muscle_group": "Back",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Bodyweight Rows",
+          "muscle_group": "Back",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Squats",
+          "muscle_group": "Legs",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Lunges",
+          "muscle_group": "Legs",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Pike Push-ups",
+          "muscle_group": "Shoulders",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        },
+        {
+          "exercise": "Handstand Push-ups (advanced)",
+          "muscle_group": "Shoulders",
+          "sets": 4,
+          "reps": "8-12",
+          "rest": "90-120 seconds"
+        }
+      ]
+    }
+  ],
+  "notes": {
+    "progression": "Add 2.5-5 lbs per week on compound lifts",
+    "warm_up": "5-10 minutes light cardio + dynamic stretching",
+    "cool_down": "5-10 minutes static stretching",
+    "rest_days": "Rest on days between workouts",
+    "nutrition": "Maintain adequate protein (0.8-1g per lb bodyweight)"
+  }
+}
