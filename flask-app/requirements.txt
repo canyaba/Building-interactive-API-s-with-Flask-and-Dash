@@ -1,0 +1,9 @@
+flask
+pillow
+fitness-influencer-mcp
+dash
+dash-ag-grid
+pandas
+plotly
+requests
+jupyter
